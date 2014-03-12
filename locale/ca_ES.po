@@ -1,0 +1,47 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:product.template,uoms:"
+msgid "UOMs"
+msgstr "UdMs"
+
+msgctxt "field:product.template-product.uom,create_date:"
+msgid "Create Date"
+msgstr "Data creació"
+
+msgctxt "field:product.template-product.uom,create_uid:"
+msgid "Create User"
+msgstr "Usuari creació"
+
+msgctxt "field:product.template-product.uom,id:"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "field:product.template-product.uom,rec_name:"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "field:product.template-product.uom,template:"
+msgid "Template"
+msgstr "Plantilla"
+
+msgctxt "field:product.template-product.uom,uom:"
+msgid "UOM"
+msgstr "UdM"
+
+msgctxt "field:product.template-product.uom,write_date:"
+msgid "Write Date"
+msgstr "Data modificació"
+
+msgctxt "field:product.template-product.uom,write_uid:"
+msgid "Write User"
+msgstr "Usuari modificació"
+
+msgctxt "model:product.template-product.uom,name:"
+msgid "Template - Product UOM"
+msgstr "Plantilla - UdM"
+
+msgctxt "view:product.template:"
+msgid "UOMs"
+msgstr "UdMs"
