@@ -8,7 +8,7 @@ msgstr "UdMs"
 
 msgctxt "field:product.template-product.uom,create_date:"
 msgid "Create Date"
-msgstr "Fecha de creación"
+msgstr "Fecha creación"
 
 msgctxt "field:product.template-product.uom,create_uid:"
 msgid "Create User"
@@ -16,7 +16,7 @@ msgstr "Usuario creación"
 
 msgctxt "field:product.template-product.uom,id:"
 msgid "ID"
-msgstr "Identificador"
+msgstr "ID"
 
 msgctxt "field:product.template-product.uom,rec_name:"
 msgid "Name"
