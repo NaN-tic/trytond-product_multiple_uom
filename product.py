@@ -6,10 +6,10 @@ from trytond.model import ModelSQL, fields
 from trytond.pool import PoolMeta
 
 __all__ = ['Template', 'TemplateProductUom']
-__metaclass__ = PoolMeta
 
 
 class Template:
+    __metaclass__ = PoolMeta
     __name__ = 'product.template'
     uoms = fields.Many2Many('product.template-product.uom',
         'template', 'uom', 'UOMs')
